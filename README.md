@@ -39,11 +39,6 @@ I am currently at the beginning of my journey in the field of **Data Science**.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanKulikov777&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanKulikov777&layout=compact&theme=tokyonight)
-
 ###
 
 <div align="center">
