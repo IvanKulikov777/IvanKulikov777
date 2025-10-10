@@ -1,4 +1,4 @@
-# Hey 👋, I'm Kate!
+# Hey 👋, I'm Ivan!
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Katerina-finch)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
@@ -13,17 +13,20 @@ Now I'm at the beginning of my journey into **Data Science**.
 
 ---
 
-### 🏫 I'm studying at [@SENATOROVAI](https://github.com/SENATOROVAI)
-
-🏢 Organization: [@SENATOROVAI](https://github.com/SENATOROVAI)  
-🔗 [Kaggle Profile](https://www.kaggle.com/katerina976)  
-🔗 [ODS.ai Profile](https://ods.ai/users/hf7ade8705d24)
-
----
-
 ## ⚡ Rapidfire
 
 - 🧑‍💻 I’m currently working on Data Science projects  
 - 🌱 I’m currently learning **Data Science** and **Math**  
 - ❓ You can ask me something not too difficult about **Python** 😄  
 - ⚡ Fun fact: I love analyzing data just as much as creating it!
+
+---
+
+## 🧠 Languages I've worked with
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembler](https://img.shields.io/badge/Assembler-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
