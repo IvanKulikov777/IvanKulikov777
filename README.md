@@ -39,7 +39,7 @@ I am currently at the beginning of my journey in the field of **Data Science**.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IvanKulikov777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
