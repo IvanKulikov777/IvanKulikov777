@@ -41,6 +41,6 @@ I am currently at the beginning of my journey in the field of **Data Science**.
 
 ## 📈 GitHub Stats
 
-![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katerina-finch&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katerina-finch&layout=compact&theme=tokyonight)
+![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanKulikov777&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanKulikov777&layout=compact&theme=tokyonight)
 
