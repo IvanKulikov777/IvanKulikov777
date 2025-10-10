@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey 👋, I'm Kate!
 
-<!--
-**IvanKulikov777/IvanKulikov777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Katerina-finch)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/katerina976)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Glad to see you here!
+
+I studied to be a backend developer, but then I fell in love with data and statistics.  
+Now I'm at the beginning of my journey into **Data Science**.
+
+---
+
+### 🏫 I'm studying at [@SENATOROVAI](https://github.com/SENATOROVAI)
+
+🏢 Organization: [@SENATOROVAI](https://github.com/SENATOROVAI)  
+🔗 [Kaggle Profile](https://www.kaggle.com/katerina976)  
+🔗 [ODS.ai Profile](https://ods.ai/users/hf7ade8705d24)
+
+---
+
+## ⚡ Rapidfire
+
+- 🧑‍💻 I’m currently working on Data Science projects  
+- 🌱 I’m currently learning **Data Science** and **Math**  
+- ❓ You can ask me something not too difficult about **Python** 😄  
+- ⚡ Fun fact: I love analyzing data just as much as creating it!
