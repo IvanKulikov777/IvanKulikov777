@@ -1,7 +1,7 @@
 # Hey 👋, I'm Ivan!
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanKulikov777)
-[![ODS AI](https://img.shields.io/badge/ODS_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&color=FF6B6B&labelColor=000000)](https://ods.ai/p096402aba936)
+[![ODS AI](https://img.shields.io/badge/ODS_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&color=FF6B6B&labelColor=000000)](https://ods.ai/users/p096402aba936)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivankulik)
 
 ---
